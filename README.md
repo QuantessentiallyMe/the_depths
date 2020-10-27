@@ -21,7 +21,7 @@ When looking at these models one wants the least loss and one wants to see the b
 
 I would first ask anyone reading this repo to look at the FNG model first and then go from there. In the end the FNG model was terrible compared to just analyzing closing prices. The closing price model was not perfect but in reality it did relatively well. The closing model had the least loss and tracked the actual values better over time. 
 
-![closing_model](the_depths/
+![closing_model](/result_data/simply_closing_graph)
 
 
 
