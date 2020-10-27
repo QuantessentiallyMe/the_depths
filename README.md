@@ -19,14 +19,21 @@ When looking at these models one wants the least loss and one wants to see the b
   
   3. Which window size works best for the model?
 
-I would first ask anyone reading this repo to look at the FNG model first and then go from there. In the end the FNG model was terrible compared to just analyzing closing prices. The closing price model was not perfect but in reality it did relatively well. The closing model had the least loss and tracked the actual values better over time. 
+I would first ask anyone reading this repo to look at the FNG model first and then go from there. In the end the FNG model was terrible compared to just analyzing closing prices. The closing price model was not perfect but in reality it did relatively well. The closing model had the least loss and tracked the actual values better over time. Here below one can see a graph of the data using a 10 day window on closing prices.
 
-![closing_model](/result_data/simply_closing_graph.png)
+![closing_model](/result_data/simply_closing_graph.png) 
 
+![closing_model_data](/result_data/closing_data.png)
 
+It was pretty close for the most part. When it comes to the best window, I would like to play around with this a little more, but I used a window of 10 for these tests.
 
+One can compare the above data to the graph's and data found below using the fear and greed indicator.
 
-It was pretty close for the most part. When it comes to the best window, I would like to play around with this a little more, but I used a window of 10 for these tests. Please check out my notebooks and enjoy!
+![fng_model](/result_data/fng_predicted_graph.png)
+
+![fng_model](/result_data/fng_data.png)
+
+Please check out my notebooks and enjoy!
 
 
   
