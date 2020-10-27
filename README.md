@@ -19,7 +19,16 @@ When looking at these models one wants the least loss and one wants to see the b
   
   3. Which window size works best for the model?
 
-I would first ask anyone reading this repo to look at the FNG model first and then go from there. In the end the FNG model was terrible compared to just analyzing closing prices. The closing price model was not perfect but in reality it did realively well. The closing model had the least loss and tracked the actual values way better over time. It was pretty close for the most part. When it comes to the best window, I would like to play around with this a little more, but I used a window of 10 for these tests. Please check out my notebooks and enjoy!
+I would first ask anyone reading this repo to look at the FNG model first and then go from there. In the end the FNG model was terrible compared to just analyzing closing prices. The closing price model was not perfect but in reality it did relatively well. The closing model had the least loss and tracked the actual values better over time. 
+
+![closing_model](the_depths/
+
+
+
+
+It was pretty close for the most part. When it comes to the best window, I would like to play around with this a little more, but I used a window of 10 for these tests. Please check out my notebooks and enjoy!
+
+
   
 
 
