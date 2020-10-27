@@ -33,7 +33,9 @@ One can compare the above data to the graph's and data found below using the fea
 
 ![fng_model](/result_data/fng_data.png)
 
-Please check out my notebooks and enjoy!
+One can clearly see that the fear and greed predictions were a waste of time. While I myself am not a master of machine learning quite yet, one can see that this data is not working out. It definetely adds to all the skepticism around sentiment analysis and nlp, but I am a strong believer in sentiment. I am going to keep working with the model and see how I can improve it.  
+
+For the time being though, please check out my notebooks and enjoy!
 
 
   
